@@ -24,6 +24,9 @@
 
 
 直接上例子
+<br />
+<font color=red>prototype属性和方法可以理解为java的静态方法static</font>
+<br />
 
 ```
 function　Person(){
